@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "najmul",
+      "username": "khokon",
+      "email": "najmulhasanm677@gamil.com",
+      "phone": "01645957123",
+      "website": "najmul.react.me",
+      "id": 1
+    },
+    {
+      "name": "rasel",
+      "username": "hossain",
+      "email": "rasel33@gmail.com",
+      "phone": "01645957123",
+      "website": "rase.me",
+      "id": 2
+    },
+    {
+      "name": "fgf",
+      "username": "fgf",
+      "email": "fgfg@gmail.com",
+      "phone": "fg",
+      "website": "fg",
+      "id": 3
+    }
+  ]
+}
